@@ -14,7 +14,7 @@ The portfolio consists of my projects that will be presented to the potential em
 
 Credits
 
-#100 points
+100 points
 
 License
 
