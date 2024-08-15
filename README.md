@@ -1,4 +1,5 @@
 Description 
+
 portfolio-karol-sytwu
 
 As a bootcamp student, my professional portfolio consists of About Me, Work, Contact Me, and Resume sections that will show my strongest skills and talents in many aspects of the projects.
