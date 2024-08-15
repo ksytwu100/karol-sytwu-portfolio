@@ -8,6 +8,7 @@ Installation
 N/A
 
 Usage 
+
 The portfolio consists of my projects that will be presented to the potential employers.
 
 Credits
